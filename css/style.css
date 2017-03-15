@@ -802,3 +802,7 @@ body {
   flex-flow: row wrap;
   justify-content: center;
 }
+
+.blacktext {
+  color: black;
+}
