@@ -783,6 +783,22 @@ body {
   text-shadow: 0 0 5px black;
 }
 
-.blacklink {
-  color: black;
-} 
+.personal-details-text {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 35px;
+}
+
+.portrait {
+  border-radius: 50px;
+  width: 200px;
+  height:200px;
+  border: slategray solid 5px;
+}
+
+.aboutrow {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
